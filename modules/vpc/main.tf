@@ -8,3 +8,4 @@ resource "null_resource" "vpc" {
 }
 
 # making a fix change
+# making a fix 2
