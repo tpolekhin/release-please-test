@@ -1,5 +1,13 @@
 # Changelog
 
+### [0.1.2](https://www.github.com/tpolekhin/release-please-test/compare/vpc-v0.1.1...vpc-v0.1.2) (2021-08-06)
+
+
+### Bug Fixes
+
+* vpc module fix 2 ([92f7a46](https://www.github.com/tpolekhin/release-please-test/commit/92f7a4667373e5cf3a4fb1b160dc6a3b5d8200d8))
+* vpc module testing ([55986c9](https://www.github.com/tpolekhin/release-please-test/commit/55986c93f3698cbdb07fe8d39edceaea507d48ab))
+
 ### [0.1.1](https://www.github.com/tpolekhin/release-please-test/compare/vpc-vvpc-0.1.0...vpc-v0.1.1) (2021-08-06)
 
 
