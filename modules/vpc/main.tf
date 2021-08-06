@@ -6,3 +6,5 @@ resource "null_resource" "vpc" {
     command = "echo apply module vpc"
   }
 }
+
+# making a fix change
