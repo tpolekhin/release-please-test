@@ -38,7 +38,7 @@ jobs:
       - uses: GoogleCloudPlatform/release-please-action@v2
         id: release
         with:
-          release-type: node
+          release-type: terraform-module
           monorepo-tags: true
           path: modules/${{ matrix.module }}
           token: ${{ secrets.GITHUB_TOKEN }}
