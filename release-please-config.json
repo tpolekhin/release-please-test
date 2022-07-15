@@ -1,0 +1,8 @@
+{
+  "release-type": "terraform-module",
+  "separate-pull-requests": true,
+  "packages": {
+    "modules/eks": {},
+    "modules/vpc": {}
+  }
+}
