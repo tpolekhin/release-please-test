@@ -2,7 +2,11 @@
   "release-type": "terraform-module",
   "separate-pull-requests": true,
   "packages": {
-    "modules/eks": {},
-    "modules/vpc": {}
+    "modules/eks": {
+      "package-name": "eks"
+    },
+    "modules/vpc": {
+      "package-name": "vpc"
+    }
   }
 }
