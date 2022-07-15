@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/tpolekhin/release-please-test/compare/eks-v0.2.0...eks-v0.3.0) (2022-07-15)
+
+
+### Features
+
+* add new eks feature ([7e38e51](https://github.com/tpolekhin/release-please-test/commit/7e38e513f5c6d536150cc679f6b9ae28c12c6b38))
+
+
+### Bug Fixes
+
+* new fix for eks module ([b7f2344](https://github.com/tpolekhin/release-please-test/commit/b7f2344b7e4eed351e6c07e16abcac19e6119bbd))
+
 ## [0.2.0](https://www.github.com/tpolekhin/release-please-test/compare/eks-veks-0.1.0...eks-v0.2.0) (2022-07-15)
 
 
