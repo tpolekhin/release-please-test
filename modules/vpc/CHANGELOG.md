@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.4](https://github.com/tpolekhin/release-please-test/compare/vpc-v0.1.3...vpc-v0.1.4) (2022-07-26)
+
+
+### Bug Fixes
+
+* fix issue across modules ([e0229ab](https://github.com/tpolekhin/release-please-test/commit/e0229ab610ae2724f7d76b43648547926a2c8ec8))
+
 ## [0.1.3](https://github.com/tpolekhin/release-please-test/compare/vpc-v0.1.2...vpc-v0.1.3) (2022-07-15)
 
 
