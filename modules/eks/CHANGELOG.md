@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/tpolekhin/release-please-test/compare/eks-v0.3.0...eks-v0.3.1) (2022-07-26)
+
+
+### Bug Fixes
+
+* global fix across modules ([a94b255](https://github.com/tpolekhin/release-please-test/commit/a94b255114a5d637bb49907d29e43fbb572ff967))
+
 ## [0.3.0](https://github.com/tpolekhin/release-please-test/compare/eks-v0.2.0...eks-v0.3.0) (2022-07-15)
 
 
