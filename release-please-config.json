@@ -1,6 +1,6 @@
 {
   "release-type": "terraform-module",
-  "separate-pull-requests": true,
+  "separate-pull-requests": false,
   "packages": {
     "modules/eks": {
       "package-name": "eks"
