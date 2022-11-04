@@ -1,6 +1,6 @@
 {
-  "modules/eks": "0.3.2",
+  "modules/eks": "0.4.0",
   "modules/eks+FILLER": "0.0.0",
-  "modules/vpc": "0.1.4",
+  "modules/vpc": "0.2.0",
   "modules/vpc+FILLER": "0.0.0"
 }

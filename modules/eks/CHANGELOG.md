@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/tpolekhin/release-please-test/compare/eks-v0.3.2...eks-v0.4.0) (2022-11-04)
+
+
+### Features
+
+* add new feature to multiple modules ([1d2f619](https://github.com/tpolekhin/release-please-test/commit/1d2f6196a36f6366451a772e697b7f1ebbccebbc))
+
 ## [0.3.2](https://github.com/tpolekhin/release-please-test/compare/eks-v0.3.1...eks-v0.3.2) (2022-07-26)
 
 

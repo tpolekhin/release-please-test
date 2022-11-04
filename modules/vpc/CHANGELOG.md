@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.0](https://github.com/tpolekhin/release-please-test/compare/vpc-v0.1.4...vpc-v0.2.0) (2022-11-04)
+
+
+### Features
+
+* add new feature to multiple modules ([1d2f619](https://github.com/tpolekhin/release-please-test/commit/1d2f6196a36f6366451a772e697b7f1ebbccebbc))
+
 ## [0.1.4](https://github.com/tpolekhin/release-please-test/compare/vpc-v0.1.3...vpc-v0.1.4) (2022-07-26)
 
 
