@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.2.1](https://github.com/tpolekhin/release-please-test/compare/vpc-v0.2.0...vpc-v0.2.1) (2022-11-04)
+
+
+### Bug Fixes
+
+* quick vpc fix ([f37ac19](https://github.com/tpolekhin/release-please-test/commit/f37ac192a1c9ddb8afed288d05aa2aa84e7769ca))
+
 ## [0.2.0](https://github.com/tpolekhin/release-please-test/compare/vpc-v0.1.4...vpc-v0.2.0) (2022-11-04)
 
 

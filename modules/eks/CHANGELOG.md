@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/tpolekhin/release-please-test/compare/eks-v0.4.0...eks-v0.5.0) (2022-11-04)
+
+
+### Features
+
+* new eks feature ([969397f](https://github.com/tpolekhin/release-please-test/commit/969397fcfd50c94611c3c1e717fb6c8859cc98f0))
+
 ## [0.4.0](https://github.com/tpolekhin/release-please-test/compare/eks-v0.3.2...eks-v0.4.0) (2022-11-04)
 
 
